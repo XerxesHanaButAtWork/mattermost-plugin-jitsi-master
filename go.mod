@@ -1,4 +1,4 @@
-module github.com/mattermost/mattermost-plugin-jitsi
+module github.com/XerxesHanaButAtWork/mattermost-plugin-jitsi-master
 
 go 1.12
 
